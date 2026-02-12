@@ -61,15 +61,15 @@ Project Goals -----------------
 
 Data Collection -----------------
 
-	Data Sources:
-	-Public ATP match datasets (e.g., match results from datasets on Kaggle or GitHub that include rankings, surface type, match outcomes, and other basic player statistics.)
-	Collection Method:
+Data Sources:
+-Public ATP match datasets (e.g., match results from datasets on Kaggle or GitHub that include rankings, surface type, match outcomes, and other basic player statistics.)
+Collection Method:
 	
-	Collection Method:
-	-Download CSV files from publicly available datasets
+Collection Method:
+-Download CSV files from publicly available datasets
 
-	Data to Collect:
-	-Match-level data: winner, loser, tournament, surface, date
-	-Player-level data: rankings, age, height, historical win rates, head-to-head record
+Data to Collect:
+-Match-level data: winner, loser, tournament, surface, date
+-Player-level data: rankings, age, height, historical win rates, head-to-head record
 
 
